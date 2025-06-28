@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+    <fx>
+            <launch>
+            <name>missile3</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>0</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>0</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile2</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>1</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile24</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>1</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+
+        <launch>
+            <name>missile2454</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>1</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile24543</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>0</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile24542344235</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>1</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+        <launch>
+            <name>missile24543z</name>
+            <path>Aircraft/S-300/Sounds/launch.wav</path>
+            <mode>once</mode>
+            <condition>
+            <equals>
+                <property>controls/sounds/launch</property>
+                <value>0</value>
+                </equals>
+            </condition>
+            <reference-dist>50</reference-dist>
+            <max-dist>15000</max-dist>
+            <position>
+                <x> 0.01 </x>
+                <y> 0.01 </y>
+                <z> 0.01 </z>
+            </position>
+            <volume>
+                <factor>1</factor>
+                <max>1</max>
+            </volume>
+        </launch>
+    </fx>
+</PropertyList>
